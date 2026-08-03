@@ -1,10 +1,12 @@
+![logo](logo.svg)
+
 # n8n Swarm Agency 🤖
 
 A modern web application that orchestrates collaborative AI agents through n8n workflows to complete complex tasks intelligently and efficiently.
 
 ## Overview
 
-**n8n Swarm Agency** is a full-stack application that enables seamless communication between a responsive web interface and autonomous AI agents coordinated through n8n. Submit objectives and watch as a swarm of specialized agents collaboratively solve problems, gather information, and deliver comprehensive results.
+**n8n Swarm Agency** is a full-stack application that enables seamless communication between a responsive web interface and autonomous AI agents coordinated through n8n. Submit objectives and watch[...]
 
 ## ✨ Key Features
 
@@ -96,7 +98,7 @@ Each result displays:
 
 | Setting | Default | Purpose |
 |---------|---------|---------|
-| `WEBHOOK_URL` | `https://dipmane.app.n8n.cloud/webhook/...` | n8n webhook endpoint |
+| `WEBHOOK_URL` | `https://dipmane.app.n8n.cloud/webhook...` | n8n webhook endpoint |
 | `MAX_CHARS` | `2000` | Maximum input length |
 | `MAX_HISTORY` | `10` | Recent tasks stored locally |
 | `HISTORY_KEY` | `swarm_history` | localStorage key |
